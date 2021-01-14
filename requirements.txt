@@ -1,6 +1,7 @@
-here is the master branch
+here is my test-branch where i am making changes to this text file, hopefully there will
+be some conflicts.
 with many different lines of text
-testing
+testing..
 testing
 testing
 
