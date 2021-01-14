@@ -3,5 +3,6 @@ be some conflicts.
 with many different lines of text
 testing..
 testing
+here is another conflcit branch that i am changing, which will be different to the FIRST conflict branch
 testing
 
